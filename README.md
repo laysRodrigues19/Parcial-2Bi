@@ -1,1 +1,1 @@
-![plm](./Captura.PNG)
+![plm](./Capturar.PNG)
